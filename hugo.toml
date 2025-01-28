@@ -1,6 +1,6 @@
 baseURL = 'https://engmaths.github.io/ddes-dte/'
 languageCode = 'en-gb'
-title = 'Data-Driven Engineering and Sciences PhD Programme'
+title = 'DDES-DTE'
 theme = 'beautifulhugo'
 
 [Params]
