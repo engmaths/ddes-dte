@@ -4,8 +4,8 @@ title = 'Data-Driven Engineering and Sciences PhD Programme'
 theme = 'beautifulhugo'
 
 [Params]
-homeTitle = "Data-Driven Engineering and Sciences"                          # Set a different text for the header on the home page
-subtitle = "A cohort-based doctoral programme at the University of Bristol"
+homeTitle = "Data-Driven Engineering and Sciences"                                     # Set a different text for the header on the home page
+subtitle = "A cohort-based doctoral training environment at the University of Bristol"
 mainSections = ["post", "posts"]
-logo = "img/uob-square.svg"                                                 # Expecting square dimensions
+logo = "img/uob-square.svg"                                                            # Expecting square dimensions
 dateFormat = "2 January 2006"
