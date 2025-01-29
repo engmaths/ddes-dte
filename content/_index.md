@@ -2,4 +2,4 @@ Are you interested in applying cutting-edge data-driven methodologies to a wide 
 
 At the University of Bristol, we strive to build a culture of inclusion and empathy where people can be themselves at work, recognising the value that diversity of people, perspective and experience bring to our ability to innovate and to maintain our position as a leading research-intensive university.
 
-For more information, see our post on [how to apply]({{< ref "2025-01-28-applications" >}}).
+For more information, see our post on [how to apply]({{< ref "2025-01-28-applications" >}}). **The deadline for applications is 26 February 2025.**
