@@ -9,3 +9,6 @@ subtitle = "A cohort-based doctoral training environment at the University of Br
 mainSections = ["post", "posts"]
 logo = "img/uob-square.svg"                                                            # Expecting square dimensions
 dateFormat = "2 January 2006"
+
+[Params.author]
+name = "David A. W. Barton"
