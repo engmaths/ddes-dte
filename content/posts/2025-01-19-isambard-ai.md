@@ -7,4 +7,4 @@ Isambard-AI is set to become the UK’s fastest and most powerful supercomputer,
 
 Built in a climate-controlled modular data centre and backed by cutting-edge Hewlett Packard Enterprise and NVIDIA technology, phase one of Isambard-AI is already up and running, and despite only representing a small part of the overall machine, is currently the second greenest supercomputer in the world and the 128th most powerful.
 
-Recently, Prof Simon McIntosh-Smith spoke with the BBC about some of the potential projects that Isambard-AI could be used for — see this [LinkedIn post for details](https://www.linkedin.com/posts/emily-coles-pro_hpc-ai-activity-7289978751088484352-6PGr).
+Recently, Prof Simon McIntosh-Smith spoke with the BBC about some of the potential projects that Isambard-AI could be used for — see this [BBC News article](https://www.bbc.co.uk/news/articles/cy5kley15pyo) for more details.
