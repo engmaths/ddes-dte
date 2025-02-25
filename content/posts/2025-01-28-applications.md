@@ -147,6 +147,9 @@ your application to the new programme when it is fully registered.
 
     -   Research training statement: submit a blank PDF.
 
+    -   Your referees should be academics who can comment on your
+        academic ability and potential for research. **Do not put down Prof David Barton or Prof Eddie Wilson as referees.**
+
 ## Selection process
 
 The deadline for applications is 26 February 2025. After this date we
