@@ -1,4 +1,7 @@
-+++ title = 'Candidate bios: Jens Friedel' date = 2025-09-25 +++
++++ 
+title = 'Candidate bios: Jens Friedel'
+date = 2025-09-25
++++
 
 ![](/ddes-dte/static/img/Jens_Friedel_profile.png)
 
