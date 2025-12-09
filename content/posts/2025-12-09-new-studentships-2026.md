@@ -1,7 +1,6 @@
 +++
 title = 'Eight new scholarships for September 2026 entry'
 date = 2025-12-09
-author = 'David Barton'
 +++
 
 Are you interested in bringing the latest data-driven approaches to interdisciplinary topics like Robotics, Neuroscience, Healthcare, and beyond? Welcome to the second cohort of the Doctoral Training Environment (DTE) in Data-Driven Engineering and Sciences.

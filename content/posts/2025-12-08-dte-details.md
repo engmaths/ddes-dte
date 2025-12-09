@@ -1,7 +1,6 @@
 +++
-title = 'More information about the DDES DTE'
+title = 'More information about the DDES DTE for 2026/27'
 date = 2025-12-08
-author = 'David Barton'
 +++
 
 
