@@ -11,8 +11,10 @@ We have 8 fully-funded PhD studentships (around &pound;28k take-home pay) that i
 If you wish to discuss this opportunity, send an email with your CV to David.Barton@bristol.ac.uk and RE.Wilson@bristol.ac.uk. The formal application portal is available from <https://www.bristol.ac.uk/study/postgraduate/research/data-driven-engineering-and-sciences/>.
 
 The applications will be dealt with in two rounds
+
 - ROUND 1, deadline January 19, 2026.
 - ROUND 2, deadline March 1, 2026 (if places still available).
+
 To guarantee that we consider your application, please apply as soon as possible.
 
 At the University of Bristol, we strive to build a culture of inclusion and empathy where people can be themselves at work, recognising the value that diversity of people, perspective and experience bring to our ability to innovate and to maintain our position as a leading research-intensive university.
