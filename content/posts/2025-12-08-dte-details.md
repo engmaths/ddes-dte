@@ -124,12 +124,10 @@ believe of the PhD experience.
     -   Your referees should be academics who can comment on your
         academic ability and potential for research. **Do not put down Prof David Barton or Prof Eddie Wilson as referees.**
 
-    -   Supervisor suitability form: download the [partially completed supervisor suitability form](/ddes-dte/assets/supervisor-suitability-form.docx); complete this form (the four
-        highlighted sections only) and submit with your application (might not be required). 
+    -   Supervisor suitability form (submit under the Other Information section): download the [partially completed supervisor suitability form](/ddes-dte/assets/supervisor-suitability-form.docx); complete this form (the four
+        highlighted sections only) and submit with your application. 
 
-    -   Research proposal: submit a copy of this webpage (might not be required).
-
-    -   Research training statement: submit a blank PDF (might not be required).
+    -   Research proposal: submit a blank PDF or a copy of this webpage.
 
 ## Selection process
 
