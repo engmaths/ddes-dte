@@ -115,6 +115,8 @@ believe of the PhD experience.
 
 - All applications are via <https://www.bristol.ac.uk/study/postgraduate/research/data-driven-engineering-and-sciences/>.
 
+- When asked for the Funding Source, enter "School of Engineering Mathematics and Technology" (note: it doesn't matter if you enter something different).
+
 - Notes on specific documents requested:
 
     -   Personal statement: highlight your motivation for applying for
