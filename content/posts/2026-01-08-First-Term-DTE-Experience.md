@@ -1,6 +1,7 @@
 +++
-title = 'DTE Experience of First Term'
+title = 'Experience of First Term'
 date = 2026-01-08
+author = 'Alex Williams'
 +++
 
 During the first term, we have found the school to be a welcoming and supportive environment, both academically and administratively. Regular team meetings with Prof. Barton and Prof Wilson have provided a valuable forum for sharing and appreciating different scientific perspectives from experienced researchers. They have also been very supportive in taking care of all the challenges that come with settling into a new environment. We have enjoyed discovering the breadth and interdisciplinary nature of the school’s research areas and meeting many academics from a range of backgrounds. Learning within the DTE has been notably collaborative and bottom-up, allowing us to engage more deeply with topics aligned to our individual interests. 
