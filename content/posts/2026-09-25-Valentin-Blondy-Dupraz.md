@@ -1,0 +1,3 @@
+# Biography : Valentin Blondy-Dupraz
+
+Hello ! I'm a member of cohort 2 for the DDES DTE, French and 26 years old. I studied maths as an undergraduate and graduate in Sorbonne University, Paris. I've specialed during my M2 in numerical analysis of partial differetial equations, I look forward to explore the links between probability/statistics and dynamical systems. I like mathematical theory but I'm also looking for real-life problems that could motivate my research. I'm interested for example in data and models in the field of oncology. In maths I like functional analysis. I'm also happy to discover living in England, Bristol and its music scene !
